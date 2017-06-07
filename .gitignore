@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Text files
+text
+
+#Bower Components
+public/bower_components

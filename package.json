@@ -1,0 +1,25 @@
+{
+  "name": "mp2-hub",
+  "version": "1.0.0",
+  "description": "Web app that will allow users to keep up with stats in Mario Party 2.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdhays/mp2-hub.git"
+  },
+  "author": "Matthew Hays <mdhays1995@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdhays/mp2-hub/issues"
+  },
+  "homepage": "https://github.com/mdhays/mp2-hub#readme",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "pug": "^2.0.0-rc.2"
+  }
+}
