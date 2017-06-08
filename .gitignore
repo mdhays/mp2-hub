@@ -62,3 +62,6 @@ text
 
 #Bower Components
 public/bower_components
+
+#DS Store
+.DS_Store
